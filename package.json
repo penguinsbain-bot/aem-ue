@@ -39,12 +39,6 @@
     "stylelint-config-standard": "39.0.1"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "@adobe/aem-cli": "^16.16.19",
-    "axios": "^1.13.2",
-    "dotenv": "^17.2.3"
-=======
     "@adobe/aem-cli": "^16.16.19"
->>>>>>> 8a392531ac39b3d0397a46bb2bf6a618e0e5591d
   }
 }
